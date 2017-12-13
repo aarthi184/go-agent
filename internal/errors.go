@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/newrelic/go-agent/internal/jsonx"
+	"github.com/aarthi184/go-agent/internal/jsonx"
 )
 
 const (

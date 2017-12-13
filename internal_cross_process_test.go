@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/newrelic/go-agent/internal"
-	"github.com/newrelic/go-agent/internal/cat"
+	"github.com/aarthi184/go-agent/internal"
+	"github.com/aarthi184/go-agent/internal/cat"
 )
 
 var (
